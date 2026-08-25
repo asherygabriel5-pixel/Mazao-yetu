@@ -146,7 +146,7 @@ color:#666;
 3 Products.js
 const product=[{name: "Mchele",
 price:2000,
-unit: "kg"}{name="maharage",
+unit: "kg"}{name:"maharage",
 price:2500
 unit:kg}{name: "mahindi"
 price:550
